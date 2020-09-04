@@ -1,0 +1,11 @@
+C:\source\repos\PA1\obj\Debug\netcoreapp3.1\PA1.csprojAssemblyReference.cache
+C:\source\repos\PA1\obj\Debug\netcoreapp3.1\PA1.AssemblyInfoInputs.cache
+C:\source\repos\PA1\obj\Debug\netcoreapp3.1\PA1.AssemblyInfo.cs
+C:\source\repos\PA1\bin\Debug\netcoreapp3.1\PA1.exe
+C:\source\repos\PA1\bin\Debug\netcoreapp3.1\PA1.deps.json
+C:\source\repos\PA1\bin\Debug\netcoreapp3.1\PA1.runtimeconfig.json
+C:\source\repos\PA1\bin\Debug\netcoreapp3.1\PA1.runtimeconfig.dev.json
+C:\source\repos\PA1\bin\Debug\netcoreapp3.1\PA1.dll
+C:\source\repos\PA1\bin\Debug\netcoreapp3.1\PA1.pdb
+C:\source\repos\PA1\obj\Debug\netcoreapp3.1\PA1.dll
+C:\source\repos\PA1\obj\Debug\netcoreapp3.1\PA1.pdb
